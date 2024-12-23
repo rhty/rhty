@@ -37,11 +37,18 @@
 
 ### Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhty&show_icons=true&theme=tokyonight" alt="rhty's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhty&layout=compact&theme=tokyonight" alt="rhty's Top Langs" />
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rhty&show_icons=true&theme=tokyonight" alt="rhty's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhty&layout=compact&theme=tokyonight" alt="rhty's Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ### Get in Touch
