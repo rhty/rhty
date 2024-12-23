@@ -12,7 +12,6 @@
 
 ### About Me
 
-- Passionate about **“doing the right thing”** in software development
 - 6+ years of experience building scalable backend services
 - Skilled in **Go, Ruby, Python**, and cloud-native architectures
 - Enjoy bridging communication between business stakeholders and developers
