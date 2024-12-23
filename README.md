@@ -25,13 +25,23 @@
 ### Tech Stack & Tools
 
 <p>
+  <!-- Rails -->
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white" alt="Rails" />
+  <!-- Go -->
   <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" alt="Golang" />
+  <!-- Python -->
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <!-- React -->
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="React" />
+  <!-- AWS -->
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
+  <!-- GCP -->
   <img src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white" alt="GCP" />
+  <!-- K8s -->
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="K8s" />
+  <!-- Terraform -->
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform" />
+  <!-- GitHub Actions -->
   <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" alt="GH Actions" />
 </p>
 
