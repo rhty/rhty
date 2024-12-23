@@ -37,9 +37,8 @@
 
 ### Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rhty&show_icons=true&theme=tokyonight" alt="rhty's Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhty&layout=compact&theme=tokyonight" alt="rhty's Top Langs" />
 </p>
 
